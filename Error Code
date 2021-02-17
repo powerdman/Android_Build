@@ -1,0 +1,19 @@
+Information:Gradle tasks [:app:assembleDebug]
+/Users/powerdman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0cee40721e6c9b88717f5b4e06a3f849/res/values/values.xml
+Error:error: resource android:attr/fontVariationSettings not found.
+Error:error: resource android:attr/ttcIndex not found.
+Error:error: resource android:attr/dialogCornerRadius not found.
+Error:error: resource android:attr/dialogCornerRadius not found.
+/Volumes/LaCie/Andriod_Projects/Intro_to_Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml
+Error:(518) resource android:attr/fontVariationSettings not found.
+Error:(518) resource android:attr/ttcIndex not found.
+Error:failed linking references.
+Error:java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: com.android.tools.aapt2.Aapt2Exception: AAPT2 error: check logs for details
+Error:java.util.concurrent.ExecutionException: com.android.tools.aapt2.Aapt2Exception: AAPT2 error: check logs for details
+Error:com.android.tools.aapt2.Aapt2Exception: AAPT2 error: check logs for details
+Error:Execution failed for task ':app:processDebugResources'.
+> Failed to execute aapt
+Information:BUILD FAILED in 9s
+Information:11 errors
+Information:0 warnings
+Information:See complete output in console
